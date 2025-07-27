@@ -66,8 +66,8 @@ This Power BI project analyzes suicide trends across India from 2001 to 2012 usi
 
 ## 🖼️ Dashboard Preview
 
-![Page 1 Overview](Images/dashboard_screenshot1.png)
-![Page 2 - Cause Analysis](Images/dashboard_screenshot2.png)
+![Page 1 Overview](Images/National_Overview_Analysis.png)
+![Page 2 - Cause Analysis](Images/Cause of Suicide.png)
 
 ---
 
