@@ -85,7 +85,7 @@ Developed under the guidance of **Internshala Trainings – Data Science with Ge
 
 I'm **Aman Yadav**, a BSc IT graduate passionate about transforming raw data into meaningful stories. I’m currently upskilling in data analytics and generative AI.
 
-- 🔗 [LinkedIn](linkedin.com/in/aman-yadav-6b64b6253/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aman-yadav-6b64b6253/)
 - 🧠 [Explore More Projects](https://github.com/Amanyadav-07)
 
 ---
