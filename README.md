@@ -1,96 +1,98 @@
 # 📊 Suicide Trends in India (2001–2012) – Power BI Dashboard
 
-This Power BI project analyzes suicide trends across India from 2001 to 2012 using a publicly available dataset. The dashboard provides detailed insights into demographic patterns, key causes of suicide, and year-wise trends to better understand the social and psychological factors influencing these events.
+This Power BI project analyzes suicide trends across India from 2001 to 2012 using a publicly available dataset. The dashboard highlights demographic patterns, key causes of suicide, and yearly trends to understand this sensitive issue and promote data-driven insights.
 
 ---
 
 ## 📌 Project Objectives
 
-- Analyze total suicide cases in India over 12 years
-- Break down suicides by **gender**, **age group**, and **state**
-- Understand major **causes of suicide** and their patterns
-- Design a **professional Power BI dashboard** with interactive filters and clean visuals
-- Practice DAX functions and dashboard design for resume enhancement
+- Understand suicide trends by **age**, **gender**, and **region**
+- Identify **top causes of suicide** and their patterns
+- Use **Power BI** to build a professional-level, interactive dashboard
+- Strengthen data visualization and storytelling skills for job-readiness
 
 ---
 
-## 📂 Files Included
+## 📁 Project Structure
 
-| File/Folder                  | Description                                      |
-|-----------------------------|--------------------------------------------------|
-| `Suicide_Analysis_India.pbix` | Power BI dashboard project file                  |
-| `Dataset/Suicides_in_India_2001-2012.csv` | Raw dataset used in the project             |
-| `Images/`                   | Dashboard screenshots for preview                |
-| `Logo/`                     | Custom logo used in report design                |
+| File/Folder                         | Description                                      |
+|------------------------------------|--------------------------------------------------|
+| `Suicide_Analysis_India.pbix`      | Power BI project file                            |
+| `Dataset/Suicides_in_India.csv`    | Source dataset (2001–2012)                       |
+| `Images/National_Overview_Analysis.png` | Page 1 screenshot                          |
+| `Images/Cause_of_Suicide.png`      | Page 2 screenshot                                |
 
 ---
 
 ## 🧠 Key Insights
 
-- 📈 **Rising trend** in suicides from 2001 to 2012
-- 👨‍🦱 Males account for a **higher percentage** of total suicides
-- 🧓 Age groups **15–29** and **30–44** show the highest suicide counts
-- ⚠️ **Family problems** and **illness** are leading causes
-- 🏙️ States like **Maharashtra**, **West Bengal**, and **Tamil Nadu** report the highest cases
+- 📈 Suicides rose steadily from 2001 to 2012.
+- 👨‍🦱 Males represent nearly **2/3 of all suicide cases**.
+- 🧑‍🎓 **15–29** and **30–44** age groups are most affected.
+- ⚠️ **Family issues**, **marital status**, and **education level** influence trends.
+- 🏙️ States like **Maharashtra** and **West Bengal** have higher incident rates.
 
 ---
 
-## 💻 Tools & Skills Used
-
-- **Power BI**: DAX, Slicers, Visual Design
-- **Excel**: Initial data cleaning
-- **Custom Logo**: Designed for branding and presentation
-- **Storytelling**: Structured dashboard with clear user flow
-
----
-
-## 📊 Dashboard Pages
+## 📊 Dashboard Walkthrough
 
 ### 📍 Page 1: National Overview
-- KPIs (Total, Male, Female Suicides)
-- Gender distribution (donut chart)
-- Age group vs Gender (stacked chart)
-- Year-wise trends (line chart)
-- Filters: Year, State, Gender
 
-### 📍 Page 2: Cause of Suicide Analysis
-- Suicide count by cause (horizontal bar chart)
-- Gender-wise cause breakdown (stacked bar)
-- Year-wise cause distribution (table)
-- Cause category overview (donut)
-- Filters: Cause, Year, Gender
+![National Overview](Images/National_Overview_Analysis.png)
 
-> 🗺️ **Note**: Map visuals were not used due to tenant restrictions in Power BI.
+- Gender-wise suicide distribution
+- Age group comparison by gender
+- Suicide trend across years
+- State-wise slicer and KPI cards
 
 ---
 
-## 🖼️ Dashboard Preview
+### 📍 Page 2: Cause of Suicide
 
-![Page 1 Overview](Images/National_Overview_Analysis.png)
-![Page 2 - Cause Analysis](Images/Cause of Suicide.png)
+![Cause of Suicide](Images/Cause_of_Suicide.png)
+
+- Gender-wise suicide by cause
+- Total suicide by cause category (donut chart)
+- Year-wise cause-wise suicide trends
+- Highlighting top causes across years
+
+> ⚠️ *Note: Map visuals were excluded due to tenant-level limitations.*
 
 ---
 
-## 🎓 Training & Mentorship
+## 🛠 Tools & Techniques
 
-This project was built under the guidance of **Internshala Trainings** as part of the *Data Science with Generative AI* program.
+- **Power BI Desktop**
+  - Slicers, KPI Cards, DAX, Conditional Formatting
+- **Data Cleaning** in Power Query
+- **Custom visuals** and color palette
+- **GitHub** for version control and portfolio showcase
 
-**Mentors:**
+---
+
+## 🎓 Mentorship & Training
+
+Developed under the guidance of **Internshala Trainings – Data Science with Generative AI** program.
+
+**Special thanks to:**
 - Uddipta Sarrma
 - Arpit Sharma
 - Sakshi Saxena
 
 ---
 
-## 📬 About Me
+## 🙋 About Me
 
-I'm **Aman Yadav**, a BSc IT graduate actively building my skills in data analytics and visualization. I'm passionate about solving real-world problems using data.
+I'm **Aman Yadav**, a BSc IT graduate passionate about transforming raw data into meaningful stories. I’m currently upskilling in data analytics and generative AI.
 
-- 📧 [Connect on LinkedIn](https://www.linkedin.com/in/aman-yadav-6b64b6253/)
-- 📁 [View my other projects](github.com/Amanyadav-07/)
+- 🔗 [LinkedIn](linkedin.com/in/aman-yadav-6b64b6253/)
+- 🧠 [Explore More Projects](https://github.com/Amanyadav-07)
 
 ---
 
-## ⭐️ If you found this project useful...
+## ⭐ Show Your Support
 
-Please give this repository a ⭐️ to support my work and help others discover it!
+If you found this helpful, feel free to give this project a ⭐ on GitHub and share your feedback. It motivates me to create more!
+
+---
+
